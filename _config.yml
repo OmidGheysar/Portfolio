@@ -1,5 +1,33 @@
-title: Omid Gheysar Gharamaleki
-# logo: /assets/img/headshot_circle.png
-#description: text below image
+title: Omid Gheysar Gharamaleki | Data Scientist & Public Health Researcher
+logo: /assets/img/headshot_circle.png
+description: "Welcome to my personal website. I am a Data Scientist and Public Health Researcher specializing in genomic epidemiology and predictive modeling."
 show_downloads: true
+download_files:
+  - title: "CV (PDF)"
+    url: "/assets/files/omid_cv.pdf"
+  - title: "Portfolio (PDF)"
+    url: "/assets/files/omid_portfolio.pdf"
 theme: jekyll-theme-minimal
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Portfolio"
+    url: "/portfolio/"
+  - title: "Blog"
+    url: "/blog/"
+
+# Social Media Links
+social_links:
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/omidgh"
+  - name: "GitHub"
+    url: "https://github.com/omidgh"
+
+# SEO
+seo:
+  description: "Omid Gheysar Gharamaleki's personal website. Data scientist, public health researcher, and expert in genomic epidemiology."
+  keywords: "Omid Gheysar Gharamaleki, data science, public health, genomic epidemiology"
